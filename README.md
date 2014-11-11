@@ -16,9 +16,9 @@ improt
 * ZDBorderView.h
 * ZDBorderView.m
 
-[_borderView setBorderColor:[UIColor redColor]];
-[_borderView setBorderType:ZDBorderTypeLeft|ZDBorderTypeRight];
-[_borderView setBorderType:ZDBorderTypeBottom|ZDBorderTypeRight|ZDBorderTypeLeft];
+    [_borderView setBorderColor:[UIColor redColor]];
+    [_borderView setBorderType:ZDBorderTypeLeft|ZDBorderTypeRight];
+    [_borderView setBorderType:ZDBorderTypeBottom|ZDBorderTypeRight|ZDBorderTypeLeft];
 
 
 
