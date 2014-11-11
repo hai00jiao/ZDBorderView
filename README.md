@@ -16,11 +16,11 @@ improt
 * ZDBorderView.h
 * ZDBorderView.m
 
-set The border
+```objective-c
     [_borderView setBorderColor:[UIColor redColor]];
     [_borderView setBorderType:ZDBorderTypeLeft|ZDBorderTypeRight];
     [_borderView setBorderType:ZDBorderTypeBottom|ZDBorderTypeRight|ZDBorderTypeLeft];
-that is all
+```
 
 
 
