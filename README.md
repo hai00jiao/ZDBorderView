@@ -12,7 +12,7 @@
 
 ## Usage
 
-improt
+import
 * ZDBorderView.h
 * ZDBorderView.m
 
