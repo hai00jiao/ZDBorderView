@@ -16,12 +16,11 @@ improt
 * ZDBorderView.h
 * ZDBorderView.m
 
-
-Create a Tip View
+set The border
     [_borderView setBorderColor:[UIColor redColor]];
     [_borderView setBorderType:ZDBorderTypeLeft|ZDBorderTypeRight];
     [_borderView setBorderType:ZDBorderTypeBottom|ZDBorderTypeRight|ZDBorderTypeLeft];
-Create a Tip View
+that is all
 
 
 
