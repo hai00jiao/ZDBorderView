@@ -8,7 +8,7 @@
 * 如果你的UE设计师喜欢各种1像素的线(高清屏的缘故程序体现0.5,IB没办法设置成0.5)
 
 ## Examples
-![Image](https://github.com/hai00jiao/ZDSwipeCell/blob/master/swipeCell.gif)
+![Image](https://raw.githubusercontent.com/hai00jiao/ZDBorderView/master/IMG_1.png)
 
 ## Usage
 
