@@ -16,6 +16,7 @@
     _borderColor = ColorFromHex(0xd5d5d5);
     _borderType = ZDBorderTypeTop | ZDBorderTypeRight | ZDBorderTypeBottom | ZDBorderTypeLeft;
     [self setBackgroundColor:[UIColor whiteColor]];
+    [self setContentMode:UIViewContentModeRedraw];
 }
 
 - (id)initWithFrame:(CGRect)frame
